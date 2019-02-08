@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 8, 2019 
+### Day 0: February 9, 2019 
 
 
-**Today's Progress**: Setup electron along with React.
+**Today's Progress**: Setup the initial App, setup antd, redux and other assorted library.
 
-**Thoughts:** Having no clue about electron but looks interesting. I hope it will be fun.
+**Thoughts:** This time I've decided to only follow best practices. So as a first step Im gonna use debugger and no console.logs unless they are necessary.Should Also start with unit tests..
